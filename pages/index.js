@@ -8,7 +8,4 @@ export default function HomePage() {
 }
 
 
-module.exports = {
-  reactStrictMode: true,
-};
 
